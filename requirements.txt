@@ -2,5 +2,7 @@ streamlit
 pandas
 folium
 matplotlib
+seaborn
 scikit-learn
 streamlit-option-menu
+
