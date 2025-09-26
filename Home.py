@@ -8,7 +8,7 @@ st.set_page_config(page_title="Analisis K-Means Pemakaian Listrik", layout="wide
 st.title("⚡ Analisis Pemakaian Listrik dengan K-Means di Kota Sukabumi Berdasarkan Daya, Pemakaian KWH, dan Jam Nyala")
 
 # Path logo (bisa taruh di folder 'assets')
-logo_path = "logo.jpeg"  # ubah jadi "assets/logo.jpeg" kalau file di folder assets
+logo_path = "Logo.jpeg"  # ubah jadi "assets/logo.jpeg" kalau file di folder assets
 
 # Cek apakah logo tersedia
 if os.path.exists(logo_path):
@@ -18,3 +18,4 @@ else:
 
 # Deskripsi
 st.write("Gunakan menu di sidebar untuk navigasi antara halaman.")
+
